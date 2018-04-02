@@ -1,0 +1,21 @@
+/* TEAM */
+                            
+Your title: rookiejava
+Site: rookiejava@gmail.com
+Twitter: rookiejava
+Location: Seoul, South Korea
+
+
+/* THANKS */
+
+HTML5 Muffin
+This is a Frappuccino Blog
+Name: name or url
+
+                            
+/* SITE */
+                          
+Last update: YYYY/MM/DD                    
+Standards: HTML5, CSS3,..                   
+Components: Modernizr, jQuery, etc.                            
+Software: Software used for the development
